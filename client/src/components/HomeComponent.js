@@ -17,7 +17,7 @@ render(){
         <div className="container mt-4 home text-center align-self-center">
         <br/><br/><br/>
             <div className="row mt-3 darkbg text-center justify-content-center">
-            <h1 align="center"> Welcome to the Central Library</h1>
+            <h1 align="center"> Welcome to Central Library</h1>
             </div>
             <div className="row darkbg">
 
